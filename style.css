@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightblue;
+    margin: 0;
+    padding: 1em;
+    display: flex;
+    width: auto;
+    background-size: auto;
+}
+
+#name {
+    margin: 0;
+    font-size: 110px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 400px;
+    position: absolute;
+    top: 150px;
+    letter-spacing: 10px;
+    color: blue;
+}
+
+#Killua {
+    margin: 0;
+    padding-left: -30px;
+    padding-top: -10px;
+}
+
+#Killua2 {
+    padding-left: 400px;
+    padding-top: -10px;
+}
+
+#Killua3 {
+    width: 200px;
+    position: absolute;
+    top: 20px;
+    padding-left: 0px;
+}
+
+#content {
+    color: #333;
+    margin: 0;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 300px;
+    position: absolute;
+    top: 350px;
+}
